@@ -1,0 +1,34 @@
+/* 
+  localizable.strings
+  SpeechTest
+
+  Created by jugal balara on 12/01/19.
+  Copyright © 2019 jugal balara. All rights reserved.
+*/
+
+"introduction"  = "Hello, This is voice assisted application. Voice will assist you to order food.";
+//Speak go back at any step to go back. Speak cancel to cancel ordering and speak rating to know rating of restaurants";
+"speakrestname"  = "Speak name of the restaurant to see  menu";
+"restaurantnotfound" = "Restaurant not found. Try again";
+
+"speakitemname"  = "Speak name of the item to add to cart";
+"confirmorder"  =   "Please confirm to place order. place order?";
+"back"  =   "back";
+"cancel" = "cancel";
+"gotocart" = "show cart";
+"gotocart2" = "go to cart";
+"gotocart3"  =   "view cart";
+"cart"  =   "cart";
+"see"   =   "see";
+"view"  =   "view";
+"show"  =   "show";
+"confirm"     =  "confirm";
+"order"   =  "order";
+"go"    =   "go";
+"success" = "Thank you. Your order placed successfully.";
+"search"    =   "search";
+"couponapply" = "speak coupon to apply. discount";
+"coupon" = "discount";
+"couponallpied" =   "coupon applied";
+"home" = "home";
+"addmore"   ="add more";
